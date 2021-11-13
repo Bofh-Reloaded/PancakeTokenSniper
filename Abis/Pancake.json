@@ -17,7 +17,6 @@
   },
   {
     "inputs": [
-
     ],
     "name": "WETH",
     "outputs": [
@@ -150,7 +149,6 @@
   },
   {
     "inputs": [
-
     ],
     "name": "factory",
     "outputs": [
@@ -745,7 +743,6 @@
     ],
     "name": "swapExactETHForTokensSupportingFeeOnTransferTokens",
     "outputs": [
-
     ],
     "stateMutability": "payable",
     "type": "function"
@@ -819,7 +816,6 @@
     ],
     "name": "swapExactTokensForETHSupportingFeeOnTransferTokens",
     "outputs": [
-
     ],
     "stateMutability": "nonpayable",
     "type": "function"
@@ -893,7 +889,6 @@
     ],
     "name": "swapExactTokensForTokensSupportingFeeOnTransferTokens",
     "outputs": [
-
     ],
     "stateMutability": "nonpayable",
     "type": "function"

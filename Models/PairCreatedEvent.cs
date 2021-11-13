@@ -1,5 +1,5 @@
-﻿using Nethereum.ABI.FunctionEncoding.Attributes;
-using System.Numerics;
+﻿using System.Numerics;
+using Nethereum.ABI.FunctionEncoding.Attributes;
 
 namespace BscTokenSniper.Models
 {
@@ -15,8 +15,7 @@ namespace BscTokenSniper.Models
         [Parameter("address", "pair", 3, false)]
         public string Pair { get; set; }
 
-        [Parameter("uint256", "", 4, false)]
-        public BigInteger Amount { get; set; }
+        [Parameter("uint256", "", 4, false)] public BigInteger Amount { get; set; }
 
         public string Symbol { get; set; }
     }

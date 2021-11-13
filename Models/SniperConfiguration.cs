@@ -1,7 +1,4 @@
-﻿using System;
-using System.Numerics;
-
-namespace BscTokenSniper.Models
+﻿namespace BscTokenSniper.Models
 {
     public class SniperConfiguration
     {

@@ -1,6 +1,5 @@
-﻿using Fractions;
-using Nethereum.Util;
-using System.Numerics;
+﻿using System.Numerics;
+using Fractions;
 
 namespace BscTokenSniper.Models
 {
